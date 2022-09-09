@@ -1,0 +1,16 @@
+generator: SerpuloPlanetGenerator
+parent: serpulo
+orbitSpacing: 0.5
+alwaysUnlocked: true
+updateLighting: true
+iceChance: 0.2
+carbonChance: 0.2
+berylChance: 0.2
+radMin: 35
+mag: 1
+scale: 0
+mesh: {
+  type: NoiseMesh
+  color1: E6CF07
+  color2: C3FB00
+}
