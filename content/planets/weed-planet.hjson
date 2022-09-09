@@ -1,4 +1,4 @@
-generator: SerpuloPlanetGenerator
+generator: AsteroidGenerator
 parent: serpulo
 orbitSpacing: 0.4
 alwaysUnlocked: true
