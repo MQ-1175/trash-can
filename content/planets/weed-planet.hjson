@@ -1,5 +1,5 @@
 generator: AsteroidGenerator
-parent: serpulo
+parent: weed-planet
 orbitSpacing: 0.4
 alwaysUnlocked: true
 updateLighting: true
