@@ -1,5 +1,5 @@
 generator: AsteroidGenerator
-parent: weed-planet
+parent: sun
 orbitSpacing: 0.4
 alwaysUnlocked: true
 updateLighting: true
