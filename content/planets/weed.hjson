@@ -10,3 +10,8 @@ radMin: 90
 mag: 4
 scale: 8
 sectorSize: 4
+  research: {
+  root: true
+ name: "Weed"
+ requiresUnlock: false
+}
