@@ -1,0 +1,13 @@
+type: CoreBlock
+unitType: alpha
+health: 4500
+unitCapModifier: 125
+itemCapacity: 100
+size:3
+ replaceable: true
+ rebuildable: true
+category: effect
+requirements: [
+  copper/10
+]
+research: core-nucleus
