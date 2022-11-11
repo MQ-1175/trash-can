@@ -1,1 +1,1 @@
-const interplanetaryAcceleratorNode = new TechTree.TechNode(TechTree.get(Blocks.vault), effect.interplanetaryaccelerator, effect.interplanetaryaccelerator.researchRequirements());
+const interplanetaryAcceleratorNode = new TechTree.TechNode(TechTree.get(Blocks.launchPad), effect.interplanetaryaccelerator, effect.interplanetaryaccelerator.researchRequirements());
