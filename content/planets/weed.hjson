@@ -1,4 +1,4 @@
-SerpuloPlanetGenerator
+generator: SerpuloPlanetGenerator
 parent: sun
 orbitSpacing: 0.4
 alwaysUnlocked: true
